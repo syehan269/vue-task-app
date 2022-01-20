@@ -1,4 +1,4 @@
-# hello-world
+# vue-task-app
 
 ## Project setup
 ```
